@@ -1,0 +1,22 @@
+# .gitignore
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+predhouseprice/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Data
+/data/raw/
+/data/processed/
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
